@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.plasma.saver" name="Plasma saver" version="0.1.006" provider-name="Benoit Frigon">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <extension point="xbmc.service" library="default.py" start="login"></extension>
+    <extension point="xbmc.addon.metadata">
+        <language></language>
+        <summary>Plasma screen saver</summary>
+        <description></description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <platform>all</platform>
+    </extension>
+</addon>
+    
