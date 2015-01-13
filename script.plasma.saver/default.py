@@ -16,7 +16,7 @@ __plugin__ = "script.plasma.saver"
 __author__ = 'bfrigon [bfrigon@gmail.com]'
 __url__ = "www.bfrigon.com"
 __credits__ = ""
-__version__ = "0.1.006"
+__version__ = "0.1.011"
 __settings__ = xbmcaddon.Addon(id='script.plasma.saver')
 __cwd__ = __settings__.getAddonInfo('path')
 
