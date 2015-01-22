@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.plasma.saver" name="Plasma saver" version="0.1.011" provider-name="Benoit Frigon">
+<addon id="script.plasma.saver" name="Plasma saver" version="0.1.012" provider-name="Benoit Frigon">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
